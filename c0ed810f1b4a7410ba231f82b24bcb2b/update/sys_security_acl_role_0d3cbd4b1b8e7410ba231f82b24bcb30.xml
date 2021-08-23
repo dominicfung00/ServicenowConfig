@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-23 02:21:55</sys_created_on>
+        <sys_id>0d3cbd4b1b8e7410ba231f82b24bcb30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_my_wish_list.u_x_dom_wish_list_user</sys_name>
+        <sys_package display_value="DF Config" source="c0ed810f1b4a7410ba231f82b24bcb2b">c0ed810f1b4a7410ba231f82b24bcb2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DF Config">c0ed810f1b4a7410ba231f82b24bcb2b</sys_scope>
+        <sys_security_acl display_value="u_my_wish_list">cd3cbd4b1b8e7410ba231f82b24bcb1f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0d3cbd4b1b8e7410ba231f82b24bcb30</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-23 02:21:55</sys_updated_on>
+        <sys_user_role display_value="u_x_dom_wish_list_user" name="u_x_dom_wish_list_user">b43cb94b1b8e7410ba231f82b24bcb0b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
